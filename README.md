@@ -21,6 +21,8 @@ You will need the following things properly installed on your computer.
 * `cd electron-sample`
 * `yarn`
 * `bower install`
+
+## For building Windows packages
 * `brew cask install xquartz`
 * `brew install wine`
 
