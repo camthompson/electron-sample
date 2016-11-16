@@ -13,6 +13,7 @@ You will need the following things properly installed on your computer.
 * [Bower](http://bower.io/)
 * [Ember CLI](http://ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
+* [Homebrew](http://brew.sh)
 
 ## Installation
 
@@ -20,6 +21,8 @@ You will need the following things properly installed on your computer.
 * `cd electron-sample`
 * `yarn`
 * `bower install`
+* `brew cask install xquartz`
+* `brew install wine`
 
 ## Running / Development
 
