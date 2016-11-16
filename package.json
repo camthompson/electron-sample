@@ -72,11 +72,6 @@
     "icon": null,
     "ignore": null,
     "out": null,
-    "osx-sign": {
-      "identity": null,
-      "entitlements": null,
-      "entitlements-inherit": null
-    },
     "overwrite": null,
     "prune": null,
     "strict-ssl": null,
