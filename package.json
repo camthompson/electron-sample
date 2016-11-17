@@ -44,7 +44,8 @@
     "ember-inspector": "2.0.4",
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
-    "loader.js": "^4.0.10"
+    "loader.js": "^4.0.10",
+    "sharp": "0.16.2"
   },
   "main": "electron.js",
   "ember-electron": {
